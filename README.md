@@ -1,0 +1,1 @@
+Ninja gold game assignment from Coding Dojo classes
